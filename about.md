@@ -4,13 +4,11 @@ image: /assets/img/profile.jpg
 description: >
 hide_description: true
 redirect_from:
-  - 
+  -
 ---
 
 # About
-<!--author-->
 
-* * *
 <center>
 <span style=
 "font-size:170%;
@@ -19,8 +17,14 @@ font-weight:bold">
 </span>
 </center>
 
-## Education
+<!--author-->
+
 ---
+
+## Education
+
+---
+
 > 동국대학교 화학과
 >
 > Mar.2014 ~ Feb.2020
@@ -29,25 +33,29 @@ font-weight:bold">
 >
 > Jul.2022 ~ Jun.2023
 
-
 ## Certificates
+
 ---
-* SQL Developer
-* 정보처리기사
+
+- SQL Developer
+- 정보처리기사
 
 ## Skills
+
 ---
-* Java
 
-* Hadoop
+- Java
 
-* MySQL
+- Hadoop
 
-* Linux
+- MySQL
 
-* JavaScript
+- Linux
 
-* React.js
+- JavaScript
+
+- React.js
 
 ## Projects
+
 ---
