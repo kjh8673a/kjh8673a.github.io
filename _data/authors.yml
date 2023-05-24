@@ -8,11 +8,9 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Name: 권지훈
+    ✔ Email: [kjh8673a@naver.com](kjh8673a@naver.com)
 
-    Email: [kjh8673a@naver.com](kjh8673a@naver.com)
-
-    Github: [https://github.com/kjh8673a](https://github.com/kjh8673a)
+    ✔ Github: [https://github.com/kjh8673a](https://github.com/kjh8673a)
 
   # This photo will be used in the about section
   picture:
