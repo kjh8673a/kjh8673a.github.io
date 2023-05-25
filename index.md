@@ -26,8 +26,9 @@ font-weight:bold">
 
 ---
 
-| ![](assets/img/about/train.jpg) | ![](assets/img/about/sign.jpg) |
-| ------------------------------- | ------------------------------ |
+  <img src="assets/img/about/train.jpg" width="49%" >
 
-| ![](assets/img/about/museum.jpg) | ![](assets/img/about/road.jpg) |
-| -------------------------------- | ------------------------------ |
+  <img src="assets/img/about/museum.jpg" width="49%" >
+  <img src="assets/img/about/road.jpg" width="49%" align="right" >
+  
+  <img src="assets/img/about/sign.jpg" width="49%" align="right" >
