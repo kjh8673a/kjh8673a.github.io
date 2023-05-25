@@ -26,12 +26,8 @@ font-weight:bold">
 
 ---
 
-<figure class="half">
-  <img src="assets/img/about/train.jpg">
-  <img src="assets/img/about/sign.jpg">
-</figure>
+| ![](assets/img/about/train.jpg) | ![](assets/img/about/sign.jpg) |
+| ------------------------------- | ------------------------------ |
 
-<figure class="half">
-  <img src="assets/img/about/museum.jpg">
-  <img src="assets/img/about/road.jpg">
-</figure>
+| ![](assets/img/about/museum.jpg) | ![](assets/img/about/road.jpg) |
+| -------------------------------- | ------------------------------ |
