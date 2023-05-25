@@ -15,13 +15,13 @@ redirect_from:
 
 <center>
 <span style=
-"font-size:200%;
+"font-size:170%;
 font-weight:bold">
 권지훈
 </span>
 <br>
 <span style=
-"font-size:140%">
+"font-size:120%">
 신 그는 권지훈인가?
 </span>
 </center>
