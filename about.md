@@ -15,13 +15,20 @@ redirect_from:
 
 <center>
 <span style=
-"font-size:170%;
+"font-size:200%;
 font-weight:bold">
 권지훈
 </span>
+<br>
+<span style=
+"font-size:140%">
+신 그는 권지훈인가?
+</span>
 </center>
 
-## Education
+<br>
+
+## 🎓 Education
 
 ---
 
@@ -33,14 +40,18 @@ font-weight:bold">
 >
 > Jul.2022 ~ Jun.2023
 
-## Certificates
+<br>
+
+## 🧮 Certificates
 
 ---
 
-- SQL Developer (Apr.2023)
-- 정보처리기사 (Jun.2023)
+- **SQL Developer** Apr.2023
+- **정보처리기사** Jun.2023
 
-## Skills
+<br>
+
+## ⚔ Skills
 
 ---
 
@@ -66,7 +77,9 @@ font-weight:bold">
   - Life Cycle을 이해하고, Redux, Recoil 를 활용하여 소규모 프로젝트 진행 가능
   - 컴포넌트 개념을 이해하고, 재사용을 위한 개발 가능
 
-## Projects
+<br>
+
+## 📽 Projects
 
 ---
 
@@ -75,20 +88,21 @@ font-weight:bold">
   <figcaption style="text-align:center">달뜸</figcaption>
 </figure>
 
-> [달뜸](https://github.com/kjh8673a/Moonrise)
+> **[달뜸](https://github.com/kjh8673a/Moonrise)**
 >
 > Jan.2023 ~ Feb.2023
 >
 > 영화를 보고 달뜬 감정을 공유할 수 있는 웹 서비스
-> 
+>
 > 채팅, 게시글, 뒤풀이 기능으로 이루어진 영화 커뮤니티 사이트
 
+<br>
 <figure>
   <img src="/assets/img/about/matdoc.png" width="600px" height="300px" title="맞닥" alt="맞닥" />
   <figcaption style="text-align:center">맞닥</figcaption>
 </figure>
 
-> [맞닥](https://github.com/kjh8673a/Matdoc)
+> **[맞닥](https://github.com/kjh8673a/Matdoc)**
 >
 > Feb.2023 ~ Apr.2023
 >
@@ -96,12 +110,13 @@ font-weight:bold">
 >
 > 증상에 따른 병원을 필터링, 신뢰성 있는 병원 및 의약품 정보 제공
 
+<br>
 <figure>
   <img src="/assets/img/about/wooahan.gif" width="600px" height="300px" title="우아한" alt="우아한" />
   <figcaption style="text-align:center">우아한</figcaption>
 </figure>
 
-> [우아한](https://github.com/kjh8673a/Wooahan)
+> **[우아한](https://github.com/kjh8673a/Wooahan)**
 >
 > Apr.2023 ~ May.2023
 >
