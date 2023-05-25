@@ -26,7 +26,12 @@ font-weight:bold">
 
 ---
 
-![image.jpg1](assets/img/about/train.jpg) |![image.jpg2](assets/img/about/sign.jpg)
---- | --- 
-![image.jpg3](assets/img/about/museum.jpg) |![image.jpg4](assets/img/about/road.jpg)
----
+<figure class="half">
+  <img src="assets/img/about/train.jpg">
+  <img src="assets/img/about/sign.jpg">
+</figure>
+
+<figure class="half">
+  <img src="assets/img/about/museum.jpg">
+  <img src="assets/img/about/road.jpg">
+</figure>
