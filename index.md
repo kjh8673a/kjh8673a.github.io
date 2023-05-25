@@ -25,11 +25,11 @@ font-weight:bold">
 </center>
 
 ---
+<div align="center">
+  <img src="assets/img/about/train.jpg" width="22%" align="center" >
+  <img src="assets/img/about/museum.jpg" width="22%" align="center" >
+  <img src="assets/img/about/sign.jpg" width="22%" align="center" >
+  <img src="assets/img/about/road.jpg" width="22%" align="center" >
+</div>
 
-  <img src="assets/img/about/museum.jpg" width="49%" >
-  <img src="assets/img/about/train.jpg" width="49%" align="right" >
-  
-  <img src="assets/img/about/road.jpg" width="49%" >
-  <img src="assets/img/about/sign.jpg" width="49%" align="right" >
 
----
