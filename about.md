@@ -71,11 +71,11 @@ font-weight:bold">
 ---
 
 <figure>
-  <img src="assets/img/about/moonrise.gif" width="600px" height="300px" title="달뜸" alt="달뜸" />
+  <img src="/assets/img/about/moonrise.gif" width="600px" height="300px" title="달뜸" alt="달뜸" />
   <figcaption style="text-align:center">달뜸</figcaption>
 </figure>
 
-> [<h2>달뜸</h2>](https://github.com/kjh8673a/Moonrise)
+> [달뜸](https://github.com/kjh8673a/Moonrise)
 >
 > Jan.2023 ~ Feb.2023
 >
@@ -84,11 +84,11 @@ font-weight:bold">
 > 채팅, 게시글, 뒤풀이 기능으로 이루어진 영화 커뮤니티 사이트
 
 <figure>
-  <img src="assets/img/about/matdoc.png" width="600px" height="300px" title="맞닥" alt="맞닥" />
+  <img src="/assets/img/about/matdoc.png" width="600px" height="300px" title="맞닥" alt="맞닥" />
   <figcaption style="text-align:center">맞닥</figcaption>
 </figure>
 
-> [<h2>맞닥</h2>](https://github.com/kjh8673a/Matdoc)
+> [맞닥](https://github.com/kjh8673a/Matdoc)
 >
 > Feb.2023 ~ Apr.2023
 >
@@ -97,11 +97,11 @@ font-weight:bold">
 > 증상에 따른 병원을 필터링, 신뢰성 있는 병원 및 의약품 정보 제공
 
 <figure>
-  <img src="assets/img/about/wooahan.gif" width="600px" height="300px" title="우아한" alt="우아한" />
+  <img src="/assets/img/about/wooahan.gif" width="600px" height="300px" title="우아한" alt="우아한" />
   <figcaption style="text-align:center">우아한</figcaption>
 </figure>
 
-> [<h2>우아한</h2>](https://github.com/kjh8673a/Wooahan)
+> [우아한](https://github.com/kjh8673a/Wooahan)
 >
 > Apr.2023 ~ May.2023
 >
