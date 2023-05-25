@@ -26,9 +26,10 @@ font-weight:bold">
 
 ---
 
-  <img src="assets/img/about/train.jpg" width="49%" >
-
   <img src="assets/img/about/museum.jpg" width="49%" >
-  <img src="assets/img/about/road.jpg" width="49%" align="right" >
+  <img src="assets/img/about/train.jpg" width="49%" align="right" >
   
+  <img src="assets/img/about/road.jpg" width="49%" >
   <img src="assets/img/about/sign.jpg" width="49%" align="right" >
+
+---
