@@ -21,6 +21,11 @@ font-weight:bold">
 </span>
 <br>
 <span style=
+"font-size:100%">
+Full-Stack Web Developer
+</span>
+<br>
+<span style=
 "font-size:120%">
 신 그는 권지훈인가?
 </span>
