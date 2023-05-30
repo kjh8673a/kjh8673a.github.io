@@ -9,8 +9,8 @@ title: TIL
 slug: til
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
-description: >
-  TIL
+# description: >
+#   TIL
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
