@@ -10,7 +10,7 @@ slug: algorithm
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  Algorithm - 코딩테스트, PS, 백준, 프로그래머스
+  코딩테스트, PS, 백준, 프로그래머스
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true

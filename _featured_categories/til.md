@@ -10,7 +10,7 @@ slug: til
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  TIL - CS, 트러블슈팅, JAVA
+  TIL, CS, 트러블슈팅, JAVA
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
