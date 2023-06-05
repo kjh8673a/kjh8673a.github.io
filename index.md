@@ -25,7 +25,7 @@ Full-Stack Web Developer
 <br>
 <span style=
 "font-size:120%">
-신 그는 권지훈인가?
+사랑받는 개발자 권지훈입니다!
 </span>
 </center>
 
