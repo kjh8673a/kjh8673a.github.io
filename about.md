@@ -47,12 +47,13 @@ Full-Stack Web Developer
 
 <br>
 
-## 🧮 Certificates
+## 🧮 Awards / Certificates
 
 ---
 
-- **SQL Developer** Apr.2023
 - **정보처리기사** Jun.2023
+- **SSAFY 8기 자율프로젝트 우수상** May.2023
+- **SQL Developer** Apr.2023
 
 <br>
 
