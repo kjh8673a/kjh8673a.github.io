@@ -63,7 +63,7 @@ Full-Stack Web Developer
 
 <br><br>
 
-## ⚔ Skills
+## 🧶 Skills
 
 ---
 
@@ -95,11 +95,9 @@ Full-Stack Web Developer
 
 <br><br>
 
-## 📽 Projects
+## 🎭 Projects
 
 ---
-
-<br>
 
 ### ✔ 달뜸
 
