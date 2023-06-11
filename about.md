@@ -55,11 +55,11 @@ Full-Stack Web Developer
 
 <br>
 
-✔ **정보처리기사**&nbsp;&nbsp;&nbsp;Jun.2023
+✔ **SQL Developer**&nbsp;&nbsp;&nbsp;Apr.2023
 
 ✔ **SSAFY 8기 자율프로젝트 우수상**&nbsp;&nbsp;&nbsp;May.2023
 
-✔ **SQL Developer**&nbsp;&nbsp;&nbsp;Apr.2023
+✔ **정보처리기사**&nbsp;&nbsp;&nbsp;Jun.2023
 
 <br><br>
 
