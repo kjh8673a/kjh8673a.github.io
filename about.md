@@ -72,29 +72,37 @@ Full-Stack Web Developer
 ✔ **Java** 🧡💛💚💙
 
 > 언어 특성을 이해하고 있고 REST API를 활용한 프로젝트 진행 가능
-> 
+>
 > Spring, Spring Boot, Spring JPA를 이해하고 이를 활용하여 소규모 프로젝트 진행 가능
+
+<br>
 
 ✔ **Hadoop** 🧡💛💚
 
 > HDFS, HIVE, Sqoop을 이용하여 데이터 정제 및 프로젝트에 활용 가능
 
+<br>
+
 ✔ **SQL** 🧡💛💚💙
 
 > 데이터베이스 설계 및 구축 가능
-> 
+>
 > RDBMS, NoSQL를 활용한 프로젝트 진행 가능
+
+<br>
 
 ✔ **JavaScript** 🧡💛
 
 > ES6+를 이해하고 이를 활용하여 소규모 프로젝트 진행 가능
-> 
+>
 > JS기반 프레임워크와 라이브러리 사용 가능
+
+<br>
 
 ✔ **React** 🧡💛
 
 > Life Cycle을 이해하고, Redux, Recoil를 활용하여 소규모 프로젝트 진행 가능
-> 
+>
 > 컴포넌트 개념을 이해하고, 재사용을 위한 개발 가능
 
 <br><br>
@@ -102,6 +110,8 @@ Full-Stack Web Developer
 ## 🎭 Projects
 
 ---
+
+<br>
 
 ✔ **달뜸** Jan.2023 ~ Feb.2023
 
