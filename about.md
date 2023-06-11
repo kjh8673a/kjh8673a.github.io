@@ -25,28 +25,29 @@ Full-Stack Web Developer
 </span>
 </center>
 
-<br>
+<br><br>
 
 ## 🧬 About
 
----
+<br>
 
 <!--author-->
-<br>
+
+<br><br>
 
 ## 🎓 Education
 
----
+<br>
 
 ✔ **동국대학교 화학과** Mar.2014 ~ Feb.2020
 
 ✔ **삼성 청년 SW 아카데미 8기 (삼성전자)** Jul.2022 ~ Jun.2023
 
-<br>
+<br><br>
 
 ## 🧮 Awards / Certificates
 
----
+<br>
 
 ✔ **정보처리기사** Jun.2023
 
@@ -54,11 +55,11 @@ Full-Stack Web Developer
 
 ✔ **SQL Developer** Apr.2023
 
-<br>
+<br><br>
 
 ## ⚔ Skills
 
----
+<br>
 
 ✔ **Java** 🧡💛💚💙
 
@@ -84,11 +85,11 @@ Full-Stack Web Developer
 - Life Cycle을 이해하고, Redux, Recoil를 활용하여 소규모 프로젝트 진행 가능
 - 컴포넌트 개념을 이해하고, 재사용을 위한 개발 가능
 
-<br>
+<br><br>
 
 ## 📽 Projects
 
----
+<br>
 
 ### 달뜸
 
