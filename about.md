@@ -7,10 +7,6 @@ redirect_from:
   -
 ---
 
-
-
----
-
 <center>
 <span style=
 "font-size:170%;
@@ -31,7 +27,12 @@ Full-Stack Web Developer
 
 <br>
 
+
+## 🧬🎓 About
+---
 <!--author-->
+<br>
+
 
 ## 🎓 Education
 
@@ -85,12 +86,13 @@ Full-Stack Web Developer
 
 ---
 
+### 달뜸
 <figure>
   <img src="/assets/img/about/moonrise.gif" width="600px" height="300px" title="달뜸" alt="달뜸" />
   <figcaption style="text-align:center">달뜸</figcaption>
 </figure>
 
-> **[달뜸](https://github.com/kjh8673a/Moonrise)**
+> **[https://github.com/kjh8673a/Moonrise](https://github.com/kjh8673a/Moonrise)**
 >
 > Jan.2023 ~ Feb.2023
 >
@@ -100,13 +102,16 @@ Full-Stack Web Developer
 >
 > 담당역할: React를 이용한 프론트엔드 개발
 
-<br>
+<br><br>
+
+### 맞닥
 <figure>
   <img src="/assets/img/about/matdoc.gif" width="300px" height="600px" title="맞닥" alt="맞닥" />
   <figcaption style="text-align:center">맞닥</figcaption>
 </figure>
 
-> **[맞닥](https://github.com/kjh8673a/Matdoc)**
+
+> **[https://github.com/kjh8673a/Matdoc](https://github.com/kjh8673a/Matdoc)**
 >
 > Feb.2023 ~ Apr.2023
 >
@@ -116,13 +121,15 @@ Full-Stack Web Developer
 >
 > 담당역할: Hadoop, Hive를 이용한 데이터 처리 및 적재, Spring Data JPA를 이용한 API 개발
 
-<br>
+<br><br>
+
+### 우아한
 <figure>
   <img src="/assets/img/about/wooahan.gif" width="600px" height="300px" title="우아한" alt="우아한" />
   <figcaption style="text-align:center">우아한</figcaption>
 </figure>
 
-> **[우아한](https://github.com/kjh8673a/Wooahan)**
+> **[https://github.com/kjh8673a/Wooahan](https://github.com/kjh8673a/Wooahan)**
 >
 > Apr.2023 ~ May.2023
 >
