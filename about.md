@@ -43,9 +43,9 @@ Full-Stack Web Developer
 
 <br>
 
-✔ **동국대학교 화학과** Mar.2014 ~ Feb.2020
+✔ **동국대학교 화학과**&nbsp;&nbsp;&nbsp;Mar.2014 ~ Feb.2020
 
-✔ **삼성 청년 SW 아카데미 8기 (삼성전자)** Jul.2022 ~ Jun.2023
+✔ **삼성 청년 SW 아카데미 8기 (삼성전자)**&nbsp;&nbsp;&nbsp;Jul.2022 ~ Jun.2023
 
 <br><br>
 
@@ -55,11 +55,11 @@ Full-Stack Web Developer
 
 <br>
 
-✔ **정보처리기사** Jun.2023
+✔ **정보처리기사**&nbsp;&nbsp;&nbsp;Jun.2023
 
-✔ **SSAFY 8기 자율프로젝트 우수상** May.2023
+✔ **SSAFY 8기 자율프로젝트 우수상**&nbsp;&nbsp;&nbsp;May.2023
 
-✔ **SQL Developer** Apr.2023
+✔ **SQL Developer**&nbsp;&nbsp;&nbsp;Apr.2023
 
 <br><br>
 
@@ -113,7 +113,7 @@ Full-Stack Web Developer
 
 <br>
 
-✔ <span style="font-size:140%; font-weight:bold">달뜸</span> Jan.2023 ~ Feb.2023
+✔ <span style="font-size:140%; font-weight:bold">달뜸</span>&nbsp;&nbsp;&nbsp;Jan.2023 ~ Feb.2023
 
 <figure>
   <img src="/assets/img/about/moonrise.gif" width="600px" height="300px" title="달뜸" alt="달뜸" />
@@ -130,7 +130,7 @@ Full-Stack Web Developer
 
 <br><br>
 
-✔ <span style="font-size:140%; font-weight:bold">맞닥</span> Feb.2023 ~ Apr.2023
+✔ <span style="font-size:140%; font-weight:bold">맞닥</span>&nbsp;&nbsp;&nbsp;Feb.2023 ~ Apr.2023
 
 <figure>
   <img src="/assets/img/about/matdoc.gif" width="300px" height="600px" title="맞닥" alt="맞닥" />
@@ -147,7 +147,7 @@ Full-Stack Web Developer
 
 <br><br>
 
-✔ <span style="font-size:140%; font-weight:bold">우아한</span> Apr.2023 ~ May.2023
+✔ <span style="font-size:140%; font-weight:bold">우아한</span>&nbsp;&nbsp;&nbsp;Apr.2023 ~ May.2023
 
 <figure>
   <img src="/assets/img/about/wooahan.gif" width="600px" height="300px" title="우아한" alt="우아한" />
