@@ -113,7 +113,7 @@ Full-Stack Web Developer
 
 <br>
 
-✔ **달뜸** Jan.2023 ~ Feb.2023
+✔ <span style="font-size:140%; font-weight:bold">달뜸</span> Jan.2023 ~ Feb.2023
 
 <figure>
   <img src="/assets/img/about/moonrise.gif" width="600px" height="300px" title="달뜸" alt="달뜸" />
@@ -130,7 +130,7 @@ Full-Stack Web Developer
 
 <br><br>
 
-✔ **맞닥** Feb.2023 ~ Apr.2023
+✔ <span style="font-size:140%; font-weight:bold">맞닥</span> Feb.2023 ~ Apr.2023
 
 <figure>
   <img src="/assets/img/about/matdoc.gif" width="300px" height="600px" title="맞닥" alt="맞닥" />
@@ -147,7 +147,7 @@ Full-Stack Web Developer
 
 <br><br>
 
-✔ **우아한** Apr.2023 ~ May.2023
+✔ <span style="font-size:140%; font-weight:bold">우아한</span> Apr.2023 ~ May.2023
 
 <figure>
   <img src="/assets/img/about/wooahan.gif" width="600px" height="300px" title="우아한" alt="우아한" />
