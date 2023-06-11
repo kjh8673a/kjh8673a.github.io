@@ -29,6 +29,8 @@ Full-Stack Web Developer
 
 ## 🧬 About
 
+---
+
 <br>
 
 <!--author-->
@@ -36,6 +38,8 @@ Full-Stack Web Developer
 <br><br>
 
 ## 🎓 Education
+
+---
 
 <br>
 
@@ -46,6 +50,8 @@ Full-Stack Web Developer
 <br><br>
 
 ## 🧮 Awards / Certificates
+
+---
 
 <br>
 
@@ -58,6 +64,8 @@ Full-Stack Web Developer
 <br><br>
 
 ## ⚔ Skills
+
+---
 
 <br>
 
@@ -89,9 +97,11 @@ Full-Stack Web Developer
 
 ## 📽 Projects
 
+---
+
 <br>
 
-### 달뜸
+### ✔ 달뜸
 
 <figure>
   <img src="/assets/img/about/moonrise.gif" width="600px" height="300px" title="달뜸" alt="달뜸" />
@@ -110,7 +120,7 @@ Full-Stack Web Developer
 
 <br><br>
 
-### 맞닥
+### ✔ 맞닥
 
 <figure>
   <img src="/assets/img/about/matdoc.gif" width="300px" height="600px" title="맞닥" alt="맞닥" />
@@ -129,7 +139,7 @@ Full-Stack Web Developer
 
 <br><br>
 
-### 우아한
+### ✔ 우아한
 
 <figure>
   <img src="/assets/img/about/wooahan.gif" width="600px" height="300px" title="우아한" alt="우아한" />
