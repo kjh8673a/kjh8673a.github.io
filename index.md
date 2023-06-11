@@ -7,10 +7,6 @@ redirect_from:
   -
 ---
 
-<!--author-->
-
----
-
 <center>
 <span style=
 "font-size:170%;
@@ -29,12 +25,23 @@ Full-Stack Web Developer
 </span>
 </center>
 
+<br><br>
+
 ---
+
+<br>
+
+<!--author-->
+
+<br><br>
+
+---
+
+<br>
+
 <div align="center">
   <img src="assets/img/about/train.jpg" width="22%" align="center" >
   <img src="assets/img/about/museum.jpg" width="22%" align="center" >
   <img src="assets/img/about/sign.jpg" width="22%" align="center" >
   <img src="assets/img/about/road.jpg" width="22%" align="center" >
 </div>
-
-
