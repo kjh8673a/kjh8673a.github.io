@@ -99,15 +99,13 @@ Full-Stack Web Developer
 
 ---
 
-### ✔ 달뜸
+### **✔ 달뜸** Jan.2023 ~ Feb.2023
 
 <figure>
   <img src="/assets/img/about/moonrise.gif" width="600px" height="300px" title="달뜸" alt="달뜸" />
   <figcaption style="text-align:center">달뜸</figcaption>
 </figure>
 
-> Jan.2023 ~ Feb.2023
->
 > 영화를 보고 달뜬 감정을 공유할 수 있는 웹 서비스
 >
 > 채팅, 게시글, 뒤풀이 기능으로 이루어진 영화 커뮤니티 사이트
@@ -118,15 +116,13 @@ Full-Stack Web Developer
 
 <br><br>
 
-### ✔ 맞닥
+### **✔ 맞닥** Feb.2023 ~ Apr.2023
 
 <figure>
   <img src="/assets/img/about/matdoc.gif" width="300px" height="600px" title="맞닥" alt="맞닥" />
   <figcaption style="text-align:center">맞닥</figcaption>
 </figure>
 
-> Feb.2023 ~ Apr.2023
->
 > 한눈에 들어오는 메디컬 서비스
 >
 > 증상에 따른 병원을 필터링, 신뢰성 있는 병원 및 의약품 정보 제공
@@ -137,15 +133,13 @@ Full-Stack Web Developer
 
 <br><br>
 
-### ✔ 우아한
+### **✔ 우아한**  Apr.2023 ~ May.2023
 
 <figure>
   <img src="/assets/img/about/wooahan.gif" width="600px" height="300px" title="우아한" alt="우아한" />
   <figcaption style="text-align:center">우아한</figcaption>
 </figure>
 
-> Apr.2023 ~ May.2023
->
 > 게이미피케이션 요소를 넣어 한글을 놀이로 학습할 수 있는 "우리 아이 한글" 서비스
 >
 > 가속도 센서, 중력 센서를 이용한 게임들과 보상 시스템으로 이루어진 한글 교육 어플
