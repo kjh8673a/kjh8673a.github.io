@@ -7,9 +7,7 @@ redirect_from:
   -
 ---
 
-# About
 
-<!--author-->
 
 ---
 
@@ -33,17 +31,14 @@ Full-Stack Web Developer
 
 <br>
 
+<!--author-->
+
 ## 🎓 Education
 
 ---
 
-> 동국대학교 화학과
->
-> Mar.2014 ~ Feb.2020
-
-> 삼성 청년 SW 아카데미 8기 (삼성전자)
->
-> Jul.2022 ~ Jun.2023
+- **동국대학교 화학과** Mar.2014 ~ Feb.2020
+- **삼성 청년 SW 아카데미 8기 (삼성전자)** Jul.2022 ~ Jun.2023
 
 <br>
 
@@ -61,26 +56,26 @@ Full-Stack Web Developer
 
 ---
 
-- **Java** 👑
+- **Java** ❤🧡💛💚
 
   - 언어 특성을 이해하고 있고 REST API를 활용한 프로젝트 진행 가능
   - Spring, Spring Boot, Spring JPA를 이해하고 이를 활용하여 소규모 프로젝트 진행 가능
 
-- **Hadoop**
+- **Hadoop** ❤🧡💛
 
   - HDFS, HIVE, Sqoop을 이용하여 데이터 정제 및 프로젝트에 활용 가능
 
-- **SQL**
+- **SQL** ❤🧡💛💚
 
   - 데이터베이스 설계 및 구축 가능
   - RDBMS, NoSQL를 활용한 프로젝트 진행 가능
 
-- **JavaScript**
+- **JavaScript** ❤🧡
 
   - ES6+를 이해하고 이를 활용하여 소규모 프로젝트 진행 가능
   - JS기반 프레임워크와 라이브러리 사용 가능
 
-- **React**
+- **React** ❤🧡
   - Life Cycle을 이해하고, Redux, Recoil를 활용하여 소규모 프로젝트 진행 가능
   - 컴포넌트 개념을 이해하고, 재사용을 위한 개발 가능
 
@@ -107,7 +102,7 @@ Full-Stack Web Developer
 
 <br>
 <figure>
-  <img src="/assets/img/about/matdoc.png" width="600px" height="300px" title="맞닥" alt="맞닥" />
+  <img src="/assets/img/about/matdoc.gif" width="300px" height="600px" title="맞닥" alt="맞닥" />
   <figcaption style="text-align:center">맞닥</figcaption>
 </figure>
 
