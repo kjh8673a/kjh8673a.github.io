@@ -22,7 +22,7 @@ Full-Stack Web Developer
 🌊🌊🌊
 <br>
 <span style=
-"font-size:120%">
+"font-size:120%; color:#0080ff; font-weight:500;">
 "용감하게 파도에 맞서요."
 </span>
 </center>
