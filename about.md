@@ -136,11 +136,11 @@ Full-Stack Web Developer
 >
 > > React, Tailwind CSS, Spring Boot, Spring Data JPA, WebSocket, MySQL, Redis
 >
-> **기술 선정 이유**
+<!-- > **기술 선정 이유**
 >
 > **프로젝트 성과**
 >
-> **프로젝트 리뷰**
+> **프로젝트 리뷰** -->
 
 <br><br>
 
@@ -167,11 +167,11 @@ Full-Stack Web Developer
 >
 > > Spring Boot, Spring Data JPA, Querydsl, Hadoop, Hive, MySQL, Sqoop, React
 >
-> **기술 선정 이유**
+<!-- > **기술 선정 이유**
 >
 > **프로젝트 성과**
 >
-> **프로젝트 리뷰**
+> **프로젝트 리뷰** -->
 
 <br><br>
 
@@ -198,8 +198,8 @@ Full-Stack Web Developer
 >
 > > Kotlin, React, Three.js, Blender, Spring Boot, Spring Data JPA, MySQL
 >
-> **기술 선정 이유**
+<!-- > **기술 선정 이유**
 >
 > **프로젝트 성과**
 >
-> **프로젝트 리뷰**
+> **프로젝트 리뷰** -->
