@@ -120,7 +120,7 @@ Full-Stack Web Developer
   <figcaption style="text-align:center">달뜸</figcaption>
 </figure>
 
-> **[깃허브 바로가기](https://github.com/kjh8673a/Moonrise)**
+> **[달뜸 깃허브 바로가기](https://github.com/kjh8673a/Moonrise)**
 >
 > **구현 사항**
 >
@@ -151,7 +151,7 @@ Full-Stack Web Developer
   <figcaption style="text-align:center">맞닥</figcaption>
 </figure>
 
-> **[깃허브 바로가기](https://github.com/kjh8673a/Matdoc)**
+> **[맞닥 깃허브 바로가기](https://github.com/kjh8673a/Matdoc)**
 >
 > **구현 사항**
 >
@@ -182,7 +182,7 @@ Full-Stack Web Developer
   <figcaption style="text-align:center">우아한</figcaption>
 </figure>
 
-> **[깃허브 바로가기](https://github.com/kjh8673a/Wooahan)**
+> **[우아한 깃허브 바로가기](https://github.com/kjh8673a/Wooahan)**
 >
 > **구현 사항**
 >
