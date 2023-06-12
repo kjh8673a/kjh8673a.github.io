@@ -5,7 +5,7 @@ date:   2023-05-30 09:30:00 +0900
 categories: til
 ---
 
-CORS 설정 시 allowedOrigins 에러
+**CORS 설정 시 allowedOrigins 에러**
 
 ### 에러 내용
 ```
