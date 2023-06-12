@@ -132,6 +132,8 @@ Full-Stack Web Developer
 >
 > **기술 스택**
 >
+> > React, Tailwind CSS, Spring Boot, Spring Data JPA, WebSocket, MySQL, Redis
+>
 > **기술 선정 이유**
 >
 > **프로젝트 성과**
@@ -159,6 +161,8 @@ Full-Stack Web Developer
 >
 > **기술 스택**
 >
+> > Spring Boot, Spring Data JPA, Querydsl, Hadoop, Hive, MySQL, Sqoop, React
+>
 > **기술 선정 이유**
 >
 > **프로젝트 성과**
@@ -180,11 +184,13 @@ Full-Stack Web Developer
 >
 > 가속도 센서, 중력 센서를 이용한 게임들과 보상 시스템으로 이루어진 한글 교육 어플
 >
-> **담당역할**
+> **담당 역할**
 >
 > > React를 이용한 프론트엔드 개발, 센서를 이용한 Android-React 통신
 >
 > **기술 스택**
+>
+> > Kotlin, React, Three.js, Blender, Spring Boot, Spring Data JPA, MySQL 
 >
 > **기술 선정 이유**
 >
