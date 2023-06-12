@@ -18,11 +18,11 @@ font-weight:bold">
 "font-size:100%">
 Full-Stack Web Developer
 </span>
-<br>
+<!-- <br>
 <span style=
 "font-size:120%">
 사랑받는 개발자 권지훈입니다!
-</span>
+</span> -->
 </center>
 
 <br><br>
