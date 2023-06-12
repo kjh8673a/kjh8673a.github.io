@@ -120,13 +120,21 @@ Full-Stack Web Developer
   <figcaption style="text-align:center">달뜸</figcaption>
 </figure>
 
+> **[https://github.com/kjh8673a/Moonrise](https://github.com/kjh8673a/Moonrise)**
+
 > 영화를 보고 달뜬 감정을 공유할 수 있는 웹 서비스
 >
 > 채팅, 게시글, 뒤풀이 기능으로 이루어진 영화 커뮤니티 사이트
->
+
 > 담당역할: React를 이용한 프론트엔드 개발
->
-> **[https://github.com/kjh8673a/Moonrise](https://github.com/kjh8673a/Moonrise)**
+
+> 기술 스택:
+
+> 기술 선정 이유:
+
+> 프로젝트 성과:
+
+> 프로젝트 리뷰:
 
 <br><br>
 
@@ -137,13 +145,21 @@ Full-Stack Web Developer
   <figcaption style="text-align:center">맞닥</figcaption>
 </figure>
 
+> **[https://github.com/kjh8673a/Matdoc](https://github.com/kjh8673a/Matdoc)**
+
 > 한눈에 들어오는 메디컬 서비스
 >
 > 증상에 따른 병원을 필터링, 신뢰성 있는 병원 및 의약품 정보 제공
->
-> 담당역할: Hadoop, Hive를 이용한 데이터 처리 및 적재, Spring Data JPA를 이용한 API 개발
->
-> **[https://github.com/kjh8673a/Matdoc](https://github.com/kjh8673a/Matdoc)**
+
+> 담당 역할: Hadoop, Hive를 이용한 데이터 처리 및 적재, Spring Data JPA를 이용한 API 개발
+
+> 기술 스택:
+
+> 기술 선정 이유:
+
+> 프로젝트 성과:
+
+> 프로젝트 리뷰:
 
 <br><br>
 
@@ -154,10 +170,18 @@ Full-Stack Web Developer
   <figcaption style="text-align:center">우아한</figcaption>
 </figure>
 
+> **[https://github.com/kjh8673a/Wooahan](https://github.com/kjh8673a/Wooahan)**
+
 > 게이미피케이션 요소를 넣어 한글을 놀이로 학습할 수 있는 "우리 아이 한글" 서비스
 >
 > 가속도 센서, 중력 센서를 이용한 게임들과 보상 시스템으로 이루어진 한글 교육 어플
->
+
 > 담당역할: React를 이용한 프론트엔드 개발, 센서를 이용한 Android-React 통신
->
-> **[https://github.com/kjh8673a/Wooahan](https://github.com/kjh8673a/Wooahan)**
+
+> 기술 스택:
+
+> 기술 선정 이유:
+
+> 프로젝트 성과:
+
+> 프로젝트 리뷰:
