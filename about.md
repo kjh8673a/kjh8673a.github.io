@@ -18,11 +18,13 @@ font-weight:bold">
 "font-size:100%">
 Full-Stack Web Developer
 </span>
-<!-- <br>
+<br>
+🌊🌊🌊
+<br>
 <span style=
 "font-size:120%">
-사랑받는 개발자 권지훈입니다!
-</span> -->
+"용감하게 파도에 맞서요."
+</span>
 </center>
 
 <br><br>
@@ -135,7 +137,7 @@ Full-Stack Web Developer
 > **기술 스택**
 >
 > > React, Tailwind CSS, Spring Boot, Spring Data JPA, WebSocket, MySQL, Redis
->
+
 <!-- > **기술 선정 이유**
 >
 > **프로젝트 성과**
@@ -166,7 +168,7 @@ Full-Stack Web Developer
 > **기술 스택**
 >
 > > Spring Boot, Spring Data JPA, Querydsl, Hadoop, Hive, MySQL, Sqoop, React
->
+
 <!-- > **기술 선정 이유**
 >
 > **프로젝트 성과**
@@ -197,7 +199,7 @@ Full-Stack Web Developer
 > **기술 스택**
 >
 > > Kotlin, React, Three.js, Blender, Spring Boot, Spring Data JPA, MySQL
->
+
 <!-- > **기술 선정 이유**
 >
 > **프로젝트 성과**
