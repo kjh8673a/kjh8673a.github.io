@@ -47,7 +47,7 @@ Full-Stack Web Developer
 
 ✔ **동국대학교 화학과**&nbsp;&nbsp;&nbsp;Mar.2014 ~ Feb.2020
 
-✔ **삼성 청년 SW 아카데미**&nbsp;(삼성전자주식회사)&nbsp;&nbsp;Jul.2022 ~ Jun.2023
+✔ **삼성 청년 SW 아카데미**&nbsp;(삼성전자주식회사)&nbsp;&nbsp;&nbsp;Jul.2022 ~ Jun.2023
 
 <br><br>
 
@@ -57,11 +57,11 @@ Full-Stack Web Developer
 
 <br>
 
-✔ **SQL 개발자(SQLD)**&nbsp;(한국데이터산업진흥원)&nbsp;&nbsp;Apr.2023
+✔ **SQL 개발자(SQLD)**&nbsp;(한국데이터산업진흥원)&nbsp;&nbsp;&nbsp;Apr.2023
 
-✔ **삼성 청년 SW 아카데미 자율 프로젝트 우수상**&nbsp;(삼성전자주식회사)&nbsp;&nbsp;May.2023
+✔ **삼성 청년 SW 아카데미 자율 프로젝트 우수상**&nbsp;(삼성전자주식회사)&nbsp;&nbsp;&nbsp;May.2023
 
-✔ **정보처리기사**&nbsp;(한국산업인력공단)&nbsp;&nbsp;Jun.2023
+✔ **정보처리기사**&nbsp;(한국산업인력공단)&nbsp;&nbsp;&nbsp;Jun.2023
 
 <br><br>
 
