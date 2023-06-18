@@ -199,9 +199,11 @@ Full-Stack Web Developer
 > **기술 스택**
 >
 > > Kotlin, React, Three.js, Blender, Spring Boot, Spring Data JPA, MySQL
-
-<!-- > **기술 선정 이유**
+>
+> <!-- > **기술 선정 이유** -->
 >
 > **프로젝트 성과**
 >
-> **프로젝트 리뷰** -->
+> > SSAFY 8기 자율프로젝트 우수상
+>
+> <!-- > **프로젝트 리뷰** -->
