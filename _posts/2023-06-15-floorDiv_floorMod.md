@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[JAVA]Math.floorDiv & Math.floorMod"
+title: "[자바]Math.floorDiv & Math.floorMod"
 date: 2023-06-15 16:00:00 +0900
 categories: til
 ---
