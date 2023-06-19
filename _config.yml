@@ -69,8 +69,8 @@ legal:
 copyright:             © 2023 Code Chemist. All rights reserved.
 
 # Format of the permalinks
-# permalink:             /:categories/:year-:month-:day-:title/
-permalink:             none
+permalink:             /:categories/:year-:month-:day-:title/
+# permalink:             none
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
