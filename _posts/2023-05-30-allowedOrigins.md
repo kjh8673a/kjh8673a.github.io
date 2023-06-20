@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[트러블슈팅]CORS 설정 시 allowedOrigins 에러"
+title:  "[트러블슈팅] CORS 설정 시 allowedOrigins 에러"
 date:   2023-05-30 09:30:00 +0900
 categories: til
 ---
