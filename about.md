@@ -194,7 +194,7 @@ Full-Stack Web Developer
 >
 > **담당 역할**
 >
-> > React를 이용한 프론트엔드 개발, 센서를 이용한 Android-React 통신
+> > React를 이용한 프론트엔드 개발
 >
 > **기술 스택**
 >
