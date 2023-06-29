@@ -9,7 +9,7 @@ An incomplete list of features included in all versions of **Hydejack**:
 * [Syntax highlighting][syntax], powered by [Rouge]
 * [LaTeX math blocks][latex], rendered with ether [KaTeX] or [MathJax] at your choice
 * Soft-coded labels: Change wording or translate to other languages via a single file
-* Support for categories and tags
+* Support for categories and s
 * Author section below each article and support for multiple authors
 * Built-in icons for many social networks
 * Simple and semantic HTML + Structured Data
