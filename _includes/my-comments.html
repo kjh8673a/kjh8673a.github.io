@@ -1,13 +1,7 @@
-{% assign provider = site.comments.provider | default:"utterances" %}
-{% if provider == "utterances" %}
-  {% assign utterances = site.utterances %}
-  {% if utterances.repo %}
-    <script src="https://utteranc.es/client.js"
-        repo="kjh8673a/kjh8673a.github.io"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-    </script>
-  {% endif %}
-{% endif %}
+<script src="https://utteranc.es/client.js"
+  repo="kjh8673a/kjh8673a.github.io"
+  issue-term="pathname"
+  theme="github-light"
+  crossorigin="anonymous"
+  async>
+</script>
