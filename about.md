@@ -1,12 +1,9 @@
 ---
-layout: about
-image: /assets/img/profile.jpg
+layout: welcome
+title: About
+permalink: /about/
 sidebar: true
 order: 1
-description: >
-hide_description: true
-redirect_from:
-  -
 ---
 
 <center>
