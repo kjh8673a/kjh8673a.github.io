@@ -1,6 +1,8 @@
 ---
 layout: about
 image: /assets/img/profile.jpg
+sidebar: true
+order: 1
 description: >
 hide_description: true
 redirect_from:
