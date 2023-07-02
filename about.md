@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: welcome
 title: About
 permalink: /about/
 sidebar: true
@@ -8,7 +8,7 @@ order: 1
 
 <center>
 <span style=
-"font-size:170%;
+"font-size:240%;
 font-weight:bold">
 권지훈
 </span>
