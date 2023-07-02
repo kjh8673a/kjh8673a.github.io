@@ -9,7 +9,7 @@ redirect_from:
 
 <center>
 <span style=
-"font-size:170%;
+"font-size:240%;
 font-weight:bold">
 권지훈
 </span>

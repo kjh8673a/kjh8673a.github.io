@@ -1,9 +1,10 @@
 ---
-layout: welcome
+layout: about
 title: About
 permalink: /about/
 sidebar: true
 order: 1
+hide_title: true
 ---
 
 <center>
