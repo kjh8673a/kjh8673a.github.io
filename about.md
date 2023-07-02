@@ -46,6 +46,8 @@ Full-Stack Web Developer
 
 ✔ **동국대학교 화학과**&nbsp;&nbsp;&nbsp;Mar.2014 ~ Feb.2020
 
+✔ **지능형 웹 서비스 풀스택 개발**&nbsp;(멀티캠퍼스)&nbsp;&nbsp;&nbsp;Dec.2021 ~ Jun.2022
+
 ✔ **삼성 청년 SW 아카데미**&nbsp;(삼성전자주식회사)&nbsp;&nbsp;&nbsp;Jul.2022 ~ Jun.2023
 
 <br><br>
