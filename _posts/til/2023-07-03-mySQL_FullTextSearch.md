@@ -9,7 +9,7 @@ categories: til
 
 <br>
 
-### 전문 검색(FullText Search)
+## 전문 검색(FullText Search)
 
 컬럼에서 키워드로 검색하기위한 방법이다. 단어에서 일부만 일치하는 내용을 검색할 수 있다.
 
@@ -17,7 +17,7 @@ categories: til
 
 <br><br>
 
-### 인덱싱 방식
+## 인덱싱 방식
 
 인덱싱 방식으로는 Stopword방식과 N-gram방식이 있다.
 
@@ -63,7 +63,7 @@ N-gram방식은 내용을 무조건적으로 몇 글자씩 잘라 저장하는 �
 
 <br><br>
 
-### 인덱스 설정
+## 인덱스 설정
 
 전문 검색을 이용하기 위해서는 FullText인덱스를 설정해주어야 한다.
 
@@ -81,7 +81,7 @@ CREATE FULLTEXT INDEX ft_index ON table (column) WITH PARSER ngram;
 
 <br><br>
 
-### 검색 모드
+## 검색 모드
 
 검색 모드로는 자연어 모드(natural language mode)와 불린 모드(boolean mode)가 있다.
 
@@ -99,7 +99,7 @@ SELECT * FROM table WHERE MATCH(column) AGAINST ('word' IN NATURAL LANGUAGE MODE
 
 <br>
 
-### 불린 모드
+#### 불린 모드
 
 불린 모드 검색은 각 키워드의 포함, 불포함 여부를 TRUE, FALSE로 반환하여 최종 일치 여부를 판단하는 방식이다.
 
