@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "[JPA] Querydsl 방언 사용하기"
-date:   2023-07-12 16:00:00 +0900
+title: "[JPA] Querydsl 방언 사용하기"
+date: 2023-07-12 16:00:00 +0900
 categories: til
 ---
 
@@ -30,6 +30,7 @@ FullText Search는 Dialect에 등록된 함수가 아니었고, 따로 커스텀
 ## 설정
 
 1. CustomDialect 생성
+
 ```java
 package com.roller.doc.config;
 
@@ -40,6 +41,7 @@ public class MySQL8DialectCustom extends MySQL8Dialect {
 ```
 
 2. application.properties 설정
+
 ```
 spring.jpa.properties.hibernate.dialect=com.roller.doc.config.MySQL8DialectCustom
 ```
@@ -50,7 +52,7 @@ spring.jpa.properties.hibernate.dialect=com.roller.doc.config.MySQL8DialectCusto
 
 사용할 SQL의 함수를 작성한다.
 
-FullText Search 쿼리를 "match"라는 이름으로 작성했다. 
+FullText Search 쿼리를 "match"라는 이름으로 작성했다.
 
 다른 함수도 마찬가지로 적용하면 된다.
 
@@ -77,10 +79,9 @@ FullText Search하는 부분을 BooleanExpression으로 구현해 BooleanBuilder
 public BooleanExpression keywordSearch(String word) {
     NumberTemplate booleanTemplate = Expressions.numberTemplate(Double.class,
             "function('match',{0},{1})", hospital.hospital_name, word);
-    
+
     return booleanTemplate.gt(0);
 }
 ```
 
 위에서 설정한 match라는 이름의 쿼리를 불러와 첫 번째 값에 hospital_name라는 컬럼명을 넣었고, 두 번째 값에 메서드의 파라미터로 받은 값을 검색어로 넣어주었다.
-
