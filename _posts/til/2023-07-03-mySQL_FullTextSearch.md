@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "[MySQL] 전문 검색(FullText Search)"
-date:   2023-07-03 22:50:00 +0900
+title: "[MySQL] 전문 검색(FullText Search)"
+date: 2023-07-03 22:50:00 +0900
 categories: til
 ---
 
@@ -116,9 +116,3 @@ SELECT * FROM table WHERE MATCH(column) AGAINST ('word1 word2' IN BOOLEAN MODE);
 ```
 
 연산자를 사용하지 않았다면 OR 연산이 적용되어 word1이나 word2 중 하나라도 포함하는 결과를 가져온다.
-
-
-
-
-
-
