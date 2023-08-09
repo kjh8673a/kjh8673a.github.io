@@ -159,3 +159,127 @@ Stream API를 사용하기 위해서 Stream을 먼저 생성해야 한다. 타�
   		.peek(System.out::println)
   		.sum();
   ```
+
+### 최종 연산
+
+중간연산이 반환한 Stream을 받아 최종적으로 결과를 만든다
+
+- \***\*최댓값/최솟값/총합/평균/개수 - Max/Min/Sum/Average/Count\*\***
+
+  최댓값, 최솟값을 구하기위해 max와 min을, 총합, 평균, 개수를 구하기 위해 sum, average, count를 이용한다.
+  min, max, average는 Stream이 비어있는 경우 값을 특정할 수 없기 때문에 Optional로 값이 반환된다.
+
+  ```java
+  OptionalInt min = IntStream.of(1, 3, 4, 5, 6).min();
+  int max = IntStream.of().max().orElse(0);
+  IntStream.of(1, 2, 5, 6, 7).average().ifPresent(System.out::println);
+  ```
+
+  sum, count의 경우 Stream이 비어있는 경우에도 0으로 값을 특정할 수 있다. 따라서, sum, count메서드는 Optional이 아닌 원시값을 반환한다.
+
+  ```java
+  int count = IntStream.of(1, 3, 5, 6, 10).count();
+  long sum = LongStream.of(4, 5, 6, 8, 12, 32).sum();
+  ```
+
+- **데이터 수집 - collect**
+
+  Stream의 요소들을 List, Set, Map 등 다른 종류의 결과로 변환하기 위해 collect를 이용한다. Stream의 요소들을 어떻게 처리할 것인지를 정의한 Collector 타입을 인자로 받아 처리한다.
+
+  - **Collectors.toList()**
+    Stream의 결과를 List로 반환한다.
+
+    ```java
+    List<String> nameList = list.stream()
+    		.map(Food::getName) // name 얻기
+    		.collect(Collectors.toList()); // list로 수집
+    ```
+
+  - **Collectors.joining()**
+
+    Stream의 결과를 1개의 String으로 이어붙이기 위한 메서드이다. delimiter(중간에 들어가 요소를 구분), prefix(맨 앞에 붙는 글자), suffix(맨 뒤에 붙는 글자)의 3개 인자를 받을 수 있다.
+
+    ```java
+    String joining = list.stream()
+    		.map(Food::getName).collect(Collectors.joining());
+    // burgerchipscokesoda
+
+    String joining = list.stream()
+    		.map(Food::getName).collect(Collectors.joining(" "));
+    // burger chips coke soda
+
+    String joining = list.stream()
+    		.map(Food::getName).collect(Collectors.joining(", ", "<", ">"));
+    // <burger, chips, coke, soda>
+    ```
+
+  - \***\*Collectors.averagingInt(), Collectors.summingInt(), Collectors.summarizingInt()\*\***
+
+    Stream 결과의 평균, 총합을 구하기 위해 Collectors.averagingIng(), Collectors.summingInt()를 사용한다.
+
+    ```java
+    Double averageAmount = productList.stream()
+    		.collect(Collectors.averagingInt(Product::getAmount));
+
+    Integer summingAmount = productList.stream()
+    		.collect(Collectors.summingInt(Product::getAmount));
+    ```
+
+    Collectors.summarizingInt()를 사용하면 개수, 합계, 평균, 최대, 최소를 한 번에 얻을 수 있다. get 메서드를 이용해 원하는 값을 꺼낼 수 있다.(getCount(), getSum(), getAverage(), getMin(), getMax())
+
+    ```java
+    IntSummaryStatistics statistics = productList.stream()
+    		.collect(Collectors.summarizingInt(Product::getAmount));
+
+    //IntSummaryStatistics {count=5, sum=86, min=13, average=17.200000, max=23}
+    ```
+
+  - \***\*Collectors.groupingBy()\*\***
+
+    Stream의 요소들을 특정 조건으로 그룹화할 수 있다. 결과는 Map으로 반환받게 된다. groupingBy는 매개변수로 함수형 인터페이스 Function을 필요로 한다.
+
+    ```java
+    Map<Integer, List<Food>> calMap = list.stream()
+            .collect(Collectors.groupingBy(Food::getCal));
+
+    // { 230=[name: chips, cal: 230],
+    //   520=[name: burger, cal: 520],
+    //   143=[name: coke, cal: 143, name: soda, cal: 143]}
+    ```
+
+  - \***\*Collectors.partitioningBy()\*\***
+
+    Stream의 요소들을 특정 조건의 참 거짓에 따라 2개의 그룹으로 나눌 수 있다. partitioningBy는 함수형 인터페이스 Predicate를 받아 boolean값을 통해 그룹을 나눈다.
+
+    ```java
+    Map<Boolean, List<Food>> partitionMap = list.stream()
+            .collect(Collectors.partitioningBy(o -> o.getCal() > 200));
+
+    // { false=[name: coke, cal: 143, name: soda, cal: 143],
+    //   true=[name: burger, cal: 520, name: chips, cal: 230]}
+    ```
+
+- **조건 검사 - Match**
+
+  Stream의 요소들이 특정 조건을 충족하는지 검사할 때 사용한다. match는 함수형 인터페이스 Predicate을 받아 검사하고, 결과를 boolean으로 반환한다.
+  match함수에는 anyMatch, allMatch, noneMatch의 3가지가 있다.
+
+  ```java
+  List<String> names = Arrays.asList("Dog", "Cat", "Penguin", "Lion");
+
+  boolean anyMatch = names.stream()
+      .anyMatch(name -> name.contains("a"));
+  boolean allMatch = names.stream()
+      .allMatch(name -> name.length() > 3);
+  boolean noneMatch = names.stream()
+      .noneMatch(name -> name.endsWith("n"));
+  ```
+
+- **특정 연산 수행 - forEach**
+
+  Stream의 요소들을 대상으로 특정 연산을 수행하고 싶을 때 사용한다. 중간 연산에서의 peek()과 비슷하다. peek()은 중간 연산으로 실제 요소들에 영향을 주지 않은 채 작업하고, forEach()는 최종연산으로 실제 요소들에 영향을 줄 수 있고, 반환값이 존재하지 않는다.
+
+  ```java
+  names.stream()
+  		.forEach(System.out::println);
+  ```
