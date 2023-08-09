@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "[JPA] Querydsl 방언 사용하기"
+title: "[스프링] [JPA] Querydsl 방언 사용하기"
 date: 2023-07-12 16:00:00 +0900
 categories: til
+tags: spring
 ---
 
 **Querydsl Dialect**

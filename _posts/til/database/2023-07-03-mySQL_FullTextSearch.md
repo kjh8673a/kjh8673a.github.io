@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "[MySQL] 전문 검색(FullText Search)"
+title: "[데이터베이스] [MySQL] 전문 검색(FullText Search)"
 date: 2023-07-03 22:50:00 +0900
 categories: til
+tags: database
 ---
 
 **FullText Search**

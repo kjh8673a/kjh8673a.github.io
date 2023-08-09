@@ -3,6 +3,7 @@ layout: post
 title: "[자바] Math.floorDiv & Math.floorMod"
 date: 2023-06-15 16:00:00 +0900
 categories: til
+tags: java
 ---
 
 **Math.floorDiv & Math.floorMod**
@@ -32,7 +33,7 @@ public static int floorDiv(int x, int y) {
     }
 ```
 
-floorDiv는 "x / y"의 몫을 구하는데  x와 y의 부호가 다를 경우 처리하는 로직이 여기에 있다.
+floorDiv는 "x / y"의 몫을 구하는데 x와 y의 부호가 다를 경우 처리하는 로직이 여기에 있다.
 
 <code>(x ^ y) < 0</code>가 두 수의 부호가 다른 것을 판단한다.
 
@@ -43,5 +44,3 @@ floorDiv는 "x / y"의 몫을 구하는데  x와 y의 부호가 다를 경우 �
 floorDiv에서 x와 y의 부호가 다를 경우 몫에 1을 뺀 값을 반환한다.
 
 따라서 floorDiv에서도 양수인 나머지를 구할 수 있다.
-
-
