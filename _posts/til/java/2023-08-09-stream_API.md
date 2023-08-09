@@ -164,7 +164,7 @@ Stream API를 사용하기 위해서 Stream을 먼저 생성해야 한다. 타�
 
 중간연산이 반환한 Stream을 받아 최종적으로 결과를 만든다
 
-- \***\*최댓값/최솟값/총합/평균/개수 - Max/Min/Sum/Average/Count\*\***
+- **최댓값/최솟값/총합/평균/개수 - Max/Min/Sum/Average/Count**
 
   최댓값, 최솟값을 구하기위해 max와 min을, 총합, 평균, 개수를 구하기 위해 sum, average, count를 이용한다.
   min, max, average는 Stream이 비어있는 경우 값을 특정할 수 없기 때문에 Optional로 값이 반환된다.
@@ -213,7 +213,7 @@ Stream API를 사용하기 위해서 Stream을 먼저 생성해야 한다. 타�
     // <burger, chips, coke, soda>
     ```
 
-  - \***\*Collectors.averagingInt(), Collectors.summingInt(), Collectors.summarizingInt()\*\***
+  - **Collectors.averagingInt(), Collectors.summingInt(), Collectors.summarizingInt()**
 
     Stream 결과의 평균, 총합을 구하기 위해 Collectors.averagingIng(), Collectors.summingInt()를 사용한다.
 
@@ -234,7 +234,7 @@ Stream API를 사용하기 위해서 Stream을 먼저 생성해야 한다. 타�
     //IntSummaryStatistics {count=5, sum=86, min=13, average=17.200000, max=23}
     ```
 
-  - \***\*Collectors.groupingBy()\*\***
+  - **Collectors.groupingBy()**
 
     Stream의 요소들을 특정 조건으로 그룹화할 수 있다. 결과는 Map으로 반환받게 된다. groupingBy는 매개변수로 함수형 인터페이스 Function을 필요로 한다.
 
@@ -247,7 +247,7 @@ Stream API를 사용하기 위해서 Stream을 먼저 생성해야 한다. 타�
     //   143=[name: coke, cal: 143, name: soda, cal: 143]}
     ```
 
-  - \***\*Collectors.partitioningBy()\*\***
+  - **Collectors.partitioningBy()**
 
     Stream의 요소들을 특정 조건의 참 거짓에 따라 2개의 그룹으로 나눌 수 있다. partitioningBy는 함수형 인터페이스 Predicate를 받아 boolean값을 통해 그룹을 나눈다.
 
