@@ -6,6 +6,10 @@ categories: til
 tags: java
 ---
 
+**Stream API**
+
+<br>
+
 ## Stream API
 
 자바8부터 Stream API와 람다식 등을 지원하면서 자바를 이용해 함수형으로 프로그래밍할 수 있게 API를 제공해주고 있다. Stream API는 데이터의 종류에 상관없이 같은 방식으로 데이터를 처리할 수 있어 재사용성을 높일 수 있다.
