@@ -8,6 +8,10 @@ tags: java
 
 **Math.floorDiv & Math.floorMod**
 
+<br>
+
+## Math.floorDiv & Math.floorMod
+
 ### 내용
 
 "음수 % 양수" 의 값이 음수로 나와 양수로 바꿔줄 필요가 있었다.
