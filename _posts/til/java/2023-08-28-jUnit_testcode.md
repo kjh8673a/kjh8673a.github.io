@@ -110,6 +110,7 @@ int 자체로는 Collection에 담지 못하기 때문에 <code>boxed()</code>�
 **1. 로또 번호 개수 테스트**
 
 ```java
+@DisplayName("로또 번호 개수 테스트")
 @Test
 void lottoSizeTest() {
     // given
@@ -135,6 +136,7 @@ price를 1000이외의 다른 숫자로 바꿔 보면 테스트가 실패하면�
 **2.로또 번호 범위 테스트**
 
 ```java
+@DisplayName("로또 번호 범위 테스트")
 @Test
 void lottoRangeTest() {
     // given
@@ -158,6 +160,7 @@ isTrue()외에도 isFalse(), isNull() 등이 있다.
 **3. 잘못된 로또 금액 테스트**
 
 ```java
+@DisplayName("잘못된 로또 금액 테스트")
 @Test
 void lottoInvalidMoneyTest() {
     // given
