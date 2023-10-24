@@ -29,9 +29,10 @@ tags: algorithm
 1. 배열의 중간 값을 가져온다.
 
 2. 중간 값과 검색 값을 비교한다.
-    - 중간 값이 검색 값과 같다면 종료한다. (mid = key)
-    - 중간 값보다 검색 값이 크다면 중간 값 기준 오른쪽 구간을 탐색한다.(right = mid-1)
-    - 중간 값보다 검색 값이 작다면 중간 값 기준 왼쪽 구간을 탐색한다.(left = mid+1)
+
+   - 중간 값이 검색 값과 같다면 종료한다. (mid = key)
+   - 중간 값보다 검색 값이 크다면 중간 값 기준 오른쪽 구간을 탐색한다.(right = mid-1)
+   - 중간 값보다 검색 값이 작다면 중간 값 기준 왼쪽 구간을 탐색한다.(left = mid+1)
 
 3. 값을 찾거나(arr[mid] == key) 간격이 비어있을 때(left > right) 까지 반복한다.
 
@@ -98,7 +99,7 @@ private static int lowerBound(int[] arr, int l, int r, int key) {
 
 ### Upper Bound
 
-Lower Bound는 데이터 내 특정 key값보다 처음으로 큰 값이 나오는 위치를 리턴해주는 알고리즘이다.
+Upper Bound는 데이터 내 특정 key값보다 처음으로 큰 값이 나오는 위치를 리턴해주는 알고리즘이다.
 
 right값은 array.length로 잡는다.
 
