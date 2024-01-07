@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[트러블슈팅] 젠킨스 디스크 용량 부족"
-date: 2023-11-20 11:30:00 +0900
+date: 2024-01-07 21:19:00 +0900
 categories: til
 tags: trouble_shooting
 ---
